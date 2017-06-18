@@ -1,4 +1,10 @@
-# 3rdparty
+# Environment
+
+- Windows
+- VS2015
+- CMake3.4+
+
+# 3rdparty libraries
 
 - boost v1.64.0
 - gflags v2.2.0
