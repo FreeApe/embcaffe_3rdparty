@@ -1,7 +1,7 @@
 # Environment
 
 - Windows
-- VS2015
+- VS2015(x86/x86_64)
 - CMake3.4+
 
 # 3rdparty libraries
